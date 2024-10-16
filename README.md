@@ -1,1 +1,4 @@
-Git & github tutorial.
+Welcome to Github!
+
+    -hello devs
+    -git tutorial
