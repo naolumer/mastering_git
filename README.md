@@ -1,3 +1,4 @@
-YO, WeLCOme to GiThuB
-    -really important change
-    -git tutorial for beginners
+Welcome to Github!
+
+    -hello devs
+    -git tutorial
